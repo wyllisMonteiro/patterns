@@ -34,4 +34,4 @@ $ docker-compose up --build
 </table>
 
 ## License 📑
-[MIT](Put link)
+[MIT](https://github.com/wyllisMonteiro/patterns/blob/main/LICENSE)
