@@ -1,8 +1,7 @@
-# ${PROJECT_NAME}
+# Patterns
 
-## What is ${PROJECT_NAME} ? :bulb:
-
-Here is description
+## What is Patterns ? :bulb:
+I experiment patterns
 
 ## Prerequisite :wrench:
 - [Docker installed](https://docs.docker.com/engine/install/)
@@ -10,9 +9,6 @@ Here is description
 - [Golang installed](https://golang.org/doc/install/)
 
 ## Feature(s) :blue_book: (incoming)
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Conventions :orange_book:
 - [Commit conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153#format-of-the-commit-message)
@@ -27,9 +23,6 @@ $ docker-compose up --build
 - Unit tests
 
 ## Libraries :books:
-- Link 1 
-- Link 2
-- Link 3
 
 ## Contributor(s) :sparkles:
 
