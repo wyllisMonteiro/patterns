@@ -351,6 +351,8 @@ github.com/ugorji/go/codec v0.0.0-20181022190402-e5e69e061d4f/go.mod h1:VFNgLljT
 github.com/ugorji/go/codec v1.1.5-pre/go.mod h1:tULtS6Gy1AE1yCENaw4Vb//HLH5njI2tfCQDUqRd8fI=
 github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
 github.com/vektah/gqlparser v1.1.2/go.mod h1:1ycwN7Ij5njmMkPPAOaRFY4rET2Enx7IkVv3vaXspKw=
+github.com/wyllisMonteiro/go-api-template v0.0.0-20201213124401-25f8e0b642c0 h1:eBnPpz5WZJFCqk+s3kbhQvpKg/gXiR7Rff2E5KdQZ+w=
+github.com/wyllisMonteiro/go-api-template v0.0.0-20201213124401-25f8e0b642c0/go.mod h1:j21lvxBebxhyR2NrjhdoQFyFLy6K2SMgPWxCR5/wC3w=
 github.com/wyllisMonteiro/mailing v0.0.1 h1:OE02b2HxyZzvskhAqXnmc/HWqle7qfbnWkH3BNq1iq0=
 github.com/wyllisMonteiro/mailing v0.0.1/go.mod h1:Mro1w4Psl6VrqpXKQVPLDPT2mN781RZ7/fHRlv2bKwk=
 github.com/wyllisMonteiro/mailing/api v0.0.0-20200625155400-a036cafee65b/go.mod h1:zqwbwuKSfdMD0JGA5xHKudMd5wf2tJzqq/AK37Hassk=

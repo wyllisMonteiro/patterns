@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/wyllisMonteiro/go-api-template/services"
+	"github.com/wyllisMonteiro/patterns/services"
 )
 
 // Sample stores sample data

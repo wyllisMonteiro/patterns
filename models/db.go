@@ -9,7 +9,7 @@ import (
 
 	// usefull to import mysql
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/wyllisMonteiro/go-api-template/services"
+	"github.com/wyllisMonteiro/patterns/services"
 )
 
 func getVarsDB() (string, string, string, string, error) {

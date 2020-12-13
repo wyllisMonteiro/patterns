@@ -3,7 +3,7 @@ package router
 import (
 	"net/http"
 
-	"github.com/wyllisMonteiro/go-api-template/controllers"
+	"github.com/wyllisMonteiro/patterns/controllers"
 )
 
 // Route stores data for mux for an API route
@@ -21,5 +21,10 @@ var routes = Routes{
 		Method:      "GET",
 		Pattern:     "/",
 		HandlerFunc: controllers.GetSample,
+	},
+	Route{
+		Method:      "GET",
+		Pattern:     "/players/{type}",
+		HandlerFunc: controllers.GetPlayers,
 	},
 }
