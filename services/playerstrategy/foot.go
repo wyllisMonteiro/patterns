@@ -1,4 +1,4 @@
-package player
+package playerstrategy
 
 import (
 	"net/http"

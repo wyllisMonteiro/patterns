@@ -1,4 +1,4 @@
-package player
+package playerstrategy
 
 // Sport stores methods
 type Sport interface {
